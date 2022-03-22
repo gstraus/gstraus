@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gstraus
+- 👀 I’m interested in Helium hotspots and Helium projects
+- We build Helium miners
+- I'm located in Detroit
